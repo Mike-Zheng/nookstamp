@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "895eed89f3c28b6822b7",
+    "revision": "43710e8db935e7f698ea",
     "url": "/nook-book-app/css/app.2f14ca42.css"
   },
   {
-    "revision": "695dd6800010564535e5",
-    "url": "/nook-book-app/css/chunk-68a17a64.45eaf795.css"
+    "revision": "24d22d58d66536341e0c",
+    "url": "/nook-book-app/css/chunk-6918c71a.d67f984d.css"
   },
   {
     "revision": "699ac1e5e5e8e8dea1f0",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nook-book-app/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "a8c4a88528c4b36fb973bc13f881572a",
+    "revision": "c174d2727f3ac1544c47f9a531c405db",
     "url": "/nook-book-app/index.html"
   },
   {
-    "revision": "895eed89f3c28b6822b7",
-    "url": "/nook-book-app/js/app.8edc03a7.js"
+    "revision": "43710e8db935e7f698ea",
+    "url": "/nook-book-app/js/app.9727b66f.js"
   },
   {
-    "revision": "695dd6800010564535e5",
-    "url": "/nook-book-app/js/chunk-68a17a64.1f3d44fe.js"
+    "revision": "24d22d58d66536341e0c",
+    "url": "/nook-book-app/js/chunk-6918c71a.57883e26.js"
   },
   {
     "revision": "699ac1e5e5e8e8dea1f0",
