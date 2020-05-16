@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf235fab39cb36927460",
+    "revision": "895eed89f3c28b6822b7",
     "url": "/nook-book-app/css/app.2f14ca42.css"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nook-book-app/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "9004d858fe858c5d0b5f5efa45dd946d",
+    "revision": "a8c4a88528c4b36fb973bc13f881572a",
     "url": "/nook-book-app/index.html"
   },
   {
-    "revision": "bf235fab39cb36927460",
-    "url": "/nook-book-app/js/app.16e9ebc4.js"
+    "revision": "895eed89f3c28b6822b7",
+    "url": "/nook-book-app/js/app.8edc03a7.js"
   },
   {
     "revision": "695dd6800010564535e5",
