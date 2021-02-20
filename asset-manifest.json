@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nookstamp/static/css/main.96c76158.chunk.css",
+    "main.js": "/nookstamp/static/js/main.d3bf7db6.chunk.js",
+    "main.js.map": "/nookstamp/static/js/main.d3bf7db6.chunk.js.map",
+    "runtime-main.js": "/nookstamp/static/js/runtime-main.075598df.js",
+    "runtime-main.js.map": "/nookstamp/static/js/runtime-main.075598df.js.map",
+    "static/css/2.5425c4b5.chunk.css": "/nookstamp/static/css/2.5425c4b5.chunk.css",
+    "static/js/2.98bbddff.chunk.js": "/nookstamp/static/js/2.98bbddff.chunk.js",
+    "static/js/2.98bbddff.chunk.js.map": "/nookstamp/static/js/2.98bbddff.chunk.js.map",
+    "index.html": "/nookstamp/index.html",
+    "precache-manifest.d3dbee5a6ffe59454b7de8bb33eebc76.js": "/nookstamp/precache-manifest.d3dbee5a6ffe59454b7de8bb33eebc76.js",
+    "service-worker.js": "/nookstamp/service-worker.js",
+    "static/css/2.5425c4b5.chunk.css.map": "/nookstamp/static/css/2.5425c4b5.chunk.css.map",
+    "static/css/main.96c76158.chunk.css.map": "/nookstamp/static/css/main.96c76158.chunk.css.map",
+    "static/js/2.98bbddff.chunk.js.LICENSE.txt": "/nookstamp/static/js/2.98bbddff.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/nookstamp/static/media/background.9c446b5d.png",
+    "static/media/index.css": "/nookstamp/static/media/element-icons.d2f69a92.woff",
+    "static/media/getFetch.cjs": "/nookstamp/static/media/getFetch.5e98861f.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075598df.js",
+    "static/css/2.5425c4b5.chunk.css",
+    "static/js/2.98bbddff.chunk.js",
+    "static/css/main.96c76158.chunk.css",
+    "static/js/main.d3bf7db6.chunk.js"
+  ]
+}
